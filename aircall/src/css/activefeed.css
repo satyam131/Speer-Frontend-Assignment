@@ -1,0 +1,46 @@
+
+div {
+    max-width: 900px;
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    text-align: center;
+    color: rgb(246, 254, 24);
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 10px;
+  }
+
+  ul:hover {
+    cursor: pointer;
+  }
+  
+  li {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
