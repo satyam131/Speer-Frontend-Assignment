@@ -4,11 +4,11 @@ ReactJS Activity Feed App with Archive Functionality, showcasing UI/UX design, R
 This ReactJS application allows users to manage a list of calls with features including Activity Feed, Activity Detail, and Archive. Users can archive and unarchive calls, and archived calls are displayed in a separate tab. Additionally, buttons are provided to archive all calls in the activity feed and unarchive all calls in the archived calls tab.
 
 # Features
-1.Activity Feed: Display a simple list of calls.
-2.Activity Detail: View details of a selected call.
-3.Archive: Archive and unarchive individual calls, and view them in a separate tab.
-4.Archive All: Archive all calls in the activity feed.
-5.Unarchive All: Unarchive all calls in the archived calls tab.
+1. Activity Feed: Display a simple list of calls.
+2. Activity Detail: View details of a selected call.
+3. Archive: Archive and unarchive individual calls, and view them in a separate tab.
+4. Archive All: Archive all calls in the activity feed.
+5. Unarchive All: Unarchive all calls in the archived calls tab.
 
 # File Uploads
 
