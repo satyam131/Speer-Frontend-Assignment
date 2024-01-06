@@ -10,6 +10,12 @@ This ReactJS application allows users to manage a list of calls with features in
 4.Archive All: Archive all calls in the activity feed.
 5.Unarchive All: Unarchive all calls in the archived calls tab.
 
+# File Uploads
+
+1. aircall : Assignment File without zip.
+2. aircall zip file : Zip file of assignment.
+3. speer screenshots : Screenshots of assignment.
+
 # Installation
 1. Clone the repository : git clone <repository_url>
 2. Navigate to the project directory: cd <project_directory>
